@@ -1,1 +1,1 @@
-*** This is an sample electron release repo ***
+## This is an sample electron release repo 
